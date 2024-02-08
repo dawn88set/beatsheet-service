@@ -22,11 +22,11 @@ To run this service locally, ensure you have Docker Compose installed. Then, fol
 
 1. Clone this repository:
 ```bash
-git clone beat-sheet-service
+git clone git@github.com:dawn88set/beatsheet-service.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd beat-sheet-service
+cd beatsheet-service
 ```
 3. Build and start the Docker containers using Docker Compose:
 ```bash
